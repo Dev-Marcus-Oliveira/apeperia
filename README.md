@@ -1,2 +1,2 @@
-# apeperia
-Trabalho prático apeperia do curso Alura. #Responsivo
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
